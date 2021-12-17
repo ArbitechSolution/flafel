@@ -1,0 +1,68 @@
+.myhomemainDiv{
+    background-color:#16181D;
+    height: auto;
+}
+.questtxt{
+    
+    font-size: 45px;
+    font-weight: bold;
+    color: white !important;
+    margin-top: 2rem;
+    text-align: left;
+    font-family:Palatino Linotype;
+    /* margin-left: auto; */
+}
+.myspcltxt{
+  font-size: 60px;
+  font-weight: bold;
+  color:gold !important;
+  /* margin-top: 2rem; */
+  text-align: left;
+  font-family:Gabriola;
+
+}
+.anstxt{
+    
+    font-size: 22px;
+    color: rgb(255, 255, 255) !important;
+    margin-top: 2rem;
+    text-align: left;
+    margin-bottom: 12rem;
+    text-align: justify;
+    font-family:Palatino Linotype;
+}
+
+.mycardmainDiv{
+margin-top: 3rem;
+}
+@media (min-width:280px) and (max-width:1200px){
+    .myhomemainDiv{
+        background-color:#16181D;
+        height: auto;
+    }
+    .myspcltxt{
+      font-size: 40px;
+      font-weight: bold;
+      color:gold !important;
+      /* margin-top: 2rem; */
+      text-align: left;
+      font-family:Gabriola;
+    
+    }
+    .questtxt{
+        font-size: 24px;
+        font-weight: bold;
+        color: white !important;
+        text-align: left;
+        margin-top: 2rem;
+    }
+    .anstxt{
+        font-size: 16px;
+        color: rgb(139, 131, 131) !important;
+        margin-top: 1rem;
+        text-align: left;
+        margin-bottom: 0rem;
+    }
+
+    
+}

@@ -1,0 +1,23 @@
+.mynavbg
+{
+    background-color:#314152;
+    /* background: transparent; */
+    padding: 5px 25px 5px 25px;
+    z-index: 2;
+}
+.mybutn{
+    border-radius: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    width: auto; 
+    background-color: #00A0E4;
+}
+.mybutn:hover{
+    background-color: #3bbef7;
+}
+.myNavtxt{
+    color: #fcfcfc;
+    margin-top:0.8rem;
+    font-size: 26px;
+    font-weight: bold;
+}
